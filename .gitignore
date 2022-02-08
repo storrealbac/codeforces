@@ -1,4 +1,5 @@
 *.cc
+*.py
 a.out
 in
 out
